@@ -10,7 +10,7 @@ Instruções:
 
 Fazer uma aplicação React TypeScript para persistir dados disponibilizados nesta aplicação servidora.
 
-(https://github.com/arleysouza/script-prova-sub/blob/master/arquivos/imagem.png)
+!(https://github.com/arleysouza/script-prova-sub/blob/master/arquivos/imagem.png)
 
 
 ### Requisistos
