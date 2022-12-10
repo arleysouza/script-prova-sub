@@ -15,10 +15,10 @@ Fazer uma aplicação React TypeScript para persistir dados disponibilizados nes
 
 ### Requisistos
 
-- (2 pts.) A interface deverá ter os campos de entrada do nome e idade e os dados cadastrados no BD;
+- (2 pts.) A interface deverá ter os campos de entrada do nome e idade e listar os dados cadastrados no BD;
 - (2 pts.) Os dados cadastrados deverão ser listados na tela ao inicializar a aplicação;
-- (2 pts.) Os dados cadastrados deverão ser atualizados na pela após cadastrar uma pessoa;
-- (2 pts.) Uso do TypeScript;
+- (2 pts.) Os dados cadastrados deverão ser atualizados na tela após cadastrar uma pessoa;
+- (2 pts.) Usar os tipos do TypeScript;
 - (2 pts.) Criar componentes e páginas usando styled-components.
 
 
